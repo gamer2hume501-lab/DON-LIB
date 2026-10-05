@@ -1,0 +1,8 @@
+{
+  "libUrl": "https://raw.githubusercontent.com/gamer2hume501-lab/DON-LIB/main/libDON.so",
+  "libName": "libDON.so",
+  "toastText": "@SIRKITMOD",
+  "startToast": "Downloading Don",
+  "progressTitle": "DOWNLOADING LIBRARY",
+  "progressMessage": "PLEASE WAIT..."
+}
